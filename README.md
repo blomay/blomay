@@ -7,8 +7,8 @@
 
 #  PROFIL PROFESSIONNEL
 
-Ingénieur et professionnel pluridisciplinaire, je combine des compétences en **informatique, sciences du langage, énergies renouvelables et gestion de projets**.  
-Je suis actuellement professeur de langues, tout en développant des projets innovants pour le développement du Nord-Ouest d’Haïti.
+Ingénieur et professionnel pluridisciplinaire, je combine des compétences en **informatique, sciences du langage, énergies renouvelables et gestion de projets technologiques**.  
+Je suis actuellement professeur de langues, tout en développant des projets  technologiques innovants pour le développement du pay, le Nord-Ouest en particulier.
 
 ---
 
