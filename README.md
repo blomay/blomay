@@ -55,7 +55,8 @@ Concevoir et mettre en œuvre des solutions **technologiques, éducatives et soc
 ## Langues
 - Français (avancé)
 - Créole haïtien (natif)
-- Espagnol (intermédiaire)
+- Espagnol (intermediare avancee )
+- Anglais (intermediaire)
 
 ## Techniques
 - Installation systèmes solaires
