@@ -1,10 +1,9 @@
 # BLOMY ANTOINE
 
-🎓 Ingénieur | 💻 Informaticien | 🌍 Linguiste | 🔧 Technicien IT  
-📍 Port-de-Paix, Nord-Ouest, Haïti  
-📱 40036216 / 37354129
+🎓 Ingénieur Informaticien | 🌍 Linguiste | 🔧 Technicien IT / Educateur   
+ Port-de-Paix, Nord-Ouest, Haïti 
+ 40036216 / 37354129
 
----
 
 # 🧭 PROFIL PROFESSIONNEL
 
