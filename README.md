@@ -10,44 +10,40 @@
 Ingénieur et professionnel pluridisciplinaire, je combine des compétences en **informatique, sciences du langage, énergies renouvelables et gestion de projets technologiques**.  
 Je suis actuellement professeur de langues, tout en développant des projets  technologiques innovants pour le développement du pay, le Nord-Ouest en particulier.
 
----
-
-# 🎯 OBJECTIF
+#  OBJECTIF
 
 Concevoir et mettre en œuvre des solutions **technologiques, éducatives et sociales durables**, notamment à travers :
 - Le projet **Institut Pikwa**
 - Le développement de services numériques
 - L’accès à l’éducation et à la santé
 
----
+#  EXPÉRIENCES PROFESSIONNELLES
 
-# 💼 EXPÉRIENCES PROFESSIONNELLES
-
-## 🎓 Directeur
+##  Directeur
 **Lycée Tertullien Guilbaud – Port-de-Paix**
 - Gestion administrative et pédagogique
 - Supervision du personnel éducatif
 - Développement de projets scolaires
 
-## 👨🏾‍🏫 Enseignant
+## Enseignant
 - Collège H. Lesly Docteur
 - Institut Le Marien  
 **Disciplines :**
 - Espagnol
 - Informatique
 
-## 🔧 Technicien informatique
+##  Technicien informatique
 - Maintenance des systèmes
 - Installation de logiciels
 - Gestion de bases de données
 
-## ☀️ Technicien en systèmes photovoltaïques
+##  Technicien en systèmes photovoltaïques
 - Installation de panneaux solaires
 - Maintenance énergétique
 
 ---
 
-# 🧠 COMPÉTENCES
+# COMPÉTENCES
 
 ## 💻 Informatique
 - Développement Web (HTML, CSS)
@@ -56,34 +52,33 @@ Concevoir et mettre en œuvre des solutions **technologiques, éducatives et soc
 - Création de sites web
 - Gestion de bases de données
 
-## 🌐 Langues
+## Langues
 - Français (avancé)
 - Créole haïtien (natif)
 - Espagnol (intermédiaire)
 
-## ⚙️ Techniques
+## Techniques
 - Installation systèmes solaires
 - E-commerce
 - Bureautique avancée
 - Traitement de texte
 
-## 📊 Autres
+## Autres
 - Gestion de projet
 - Leadership
 - Communication professionnelle
 - Traduction & linguistique
 
----
 
-# 🚀 PROJETS
+#  PROJETS
 
-## 🏫 Institut Pikwa
+##  Institut Pikwa
 Projet de création d’un institut incluant :
 - Formation en informatique
 - Centre éducatif moderne
 - Développement régional
 
-## 🛠️ Pikwa Multi-Services
+##  Pikwa Multi-Services
 Entreprise en cours de développement :
 - Impression
 - Maintenance informatique
@@ -91,13 +86,12 @@ Entreprise en cours de développement :
 - Développement web
 - Services numériques
 
-## 🏥 Centre de santé communautaire
-📍 Mocaneuf (prévu 2026)  
+##  Centre de santé communautaire
+Mocaneuf (prévu 2026)  
 Objectif : améliorer l’accès aux soins dans les zones rurales
 
----
 
-# 📚 FORMATION
+# FORMATION
 
 🎓 Licence :
 - Sciences du langage
@@ -106,20 +100,17 @@ Objectif : améliorer l’accès aux soins dans les zones rurales
 🎓 Master I :
 - IHFOSED (en cours)
 
----
-
-# 🧾 COMPÉTENCES SPÉCIFIQUES
+# COMPÉTENCES SPÉCIFIQUES
 
 - Création de contenus éducatifs
 - Diagnostic du système éducatif
 - Développement de projets communautaires
 - Digitalisation d’entreprises
 
----
 
-# 💡 PORTFOLIO TECHNIQUE (TD MARKDOWN)
+#  PORTFOLIO TECHNIQUE (TD MARKDOWN)
 
-## ✔️ Compétences démontrées
+##  Compétences démontrées
 
 ### Texte
 - **Gras**, *italique*, ~~barré~~
