@@ -10,31 +10,43 @@
 #  PROFIL PROFESSIONNEL
 
 Ingénieur et professionnel pluridisciplinaire, je combine des compétences en **informatique, sciences du langage, énergies renouvelables et gestion de projets educative**.  
-Je suis actuellement professeur de langues, tout en développant des projets  technologiques innovants pour le développement du pay, le Nord-Ouest en particulier.
+Je suis actuellement professeur de langues et je vends mes services dans le domaine de l'ingenerie informatique tout en développant des projets technologiques innovants pour le développement du pay, le Nord-Ouest en particulier.
 
 #  OBJECTIF
 
 Concevoir et mettre en œuvre des solutions **technologiques, éducatives et sociales durables**, notamment à travers :
 - Le projet **Institut Pikwa**
 - Le développement de services numériques
-- L’accès à l’éducation et à la santé
+- L’accès à l’éducation
+- le Centre Deschamps ANTOINE
+- le Centre Gracieuse FORTUNAT  
 
 #  EXPÉRIENCES PROFESSIONNELLES
 
-##  Directeur
-**Lycée Tertullien Guilbaud – Port-de-Paix**
-- Gestion administrative et pédagogique
-- Supervision du personnel éducatif
-- Développement de projets scolaires
+##  Administrateur de base de donnees 
+
+- ** Lycée Tertullien Guilbaud – Port-de-Paix**
+- ** Institut Le Marien- Port-de-Paix**
+- ** Institut Pikwa - Port-de-Paix **
+  
 
 ## Enseignant
-- Collège H. Lesly Docteur
-- Institut Le Marien  
+
+- Institut Pikwa
+- Institut Le Marien
+- Collège Lesly H. Docteur
+- Lycee Tertullien Guilbaud
+- College Immaculee de Marie
+- Instittution Mixte les Fresres Mathurin
+- Ecole Notre Dame du Perpetuel Seccours
+- College Mixte Alain Ressot
+  
 **Disciplines :**
 - Espagnol
 - Informatique
 
 ##  Technicien informatique
+
 - Maintenance des systèmes
 - Installation de logiciels
 - Gestion de bases de données
