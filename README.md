@@ -1,6 +1,6 @@
-# BLOMY ANTOINE
+# BLOMY ANTOINE                                                                      ![blomay](photo.jpg)
 
- Ingénieur Informaticien |  Linguiste |  Technicien IT / Educateur   
+ Ingénieur Informaticien |  Linguiste |  Technicien IT / Educateur                                                                             
  Port-de-Paix, Nord-Ouest, Haïti 
  Contact: 40036216 / 37354129
  antoinealfred22@gmail.com  /  blomyantoine1@gmail.com
