@@ -120,7 +120,9 @@ Entreprise en cours de développement :
 
 Licence :
 - Sciences du langage
-- Droit et éducation
+- Sciences juridiques
+- Sciendes de l'éducation
+-Sciences informatiques
 
  Master I :
 - IHFOSED (en cours)
