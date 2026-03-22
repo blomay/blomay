@@ -1,6 +1,6 @@
 # BLOMY ANTOINE
 
-🎓 Ingénieur Informaticien | 🌍 Linguiste | 🔧 Technicien IT / Educateur   
+ Ingénieur Informaticien |  Linguiste |  Technicien IT / Educateur   
  Port-de-Paix, Nord-Ouest, Haïti 
  Contact: 40036216 / 37354129
  antoinealfred22@gmail.com  /  blomyantoine1@gmail.com
@@ -76,19 +76,25 @@ Concevoir et mettre en œuvre des solutions **technologiques, éducatives et soc
 - Créole haïtien (natif)
 - Espagnol (intermediare avancee )
 - Anglais (intermediaire)
+- Mandarin chinois
+- Portuguais
+- Swahili
 
 ## Techniques
+
 - Installation systèmes solaires
 - E-commerce
 - Bureautique avancée
 - Traitement de texte
+- marketing digital
+  
 
 ## Autres
+
 - Gestion de projet
 - Leadership
 - Communication professionnelle
 - Traduction & linguistique
-
 
 #  PROJETS
 
@@ -106,45 +112,26 @@ Entreprise en cours de développement :
 - Développement web
 - Services numériques
 
-##  Centre de santé communautaire
-Mocaneuf (prévu 2026)  
-Objectif : améliorer l’accès aux soins dans les zones rurales
+##  Centre Deschamps ANTOINE
 
+## Centre Gracieuse FORTUNAT
 
 # FORMATION
 
 Licence :
 - Sciences du langage
-- Finance, droit et éducation
+- Droit et éducation
 
  Master I :
 - IHFOSED (en cours)
+- Sciences du langage (UFCH)
 
 # COMPÉTENCES SPÉCIFIQUES
 
 - Création de contenus éducatifs
 - Diagnostic du système éducatif
-- Développement de projets communautaires
 - Digitalisation d’entreprises
 
 
-#  PORTFOLIO TECHNIQUE (TD MARKDOWN)
 
-##  Compétences démontrées
 
-### Texte
-- **Gras**, *italique*, ~~barré~~
-
-### Liste
-- Élément 1
-- Élément 2
-
-### Lien
-[Google](https://www.google.com)
-
-### Image
-![Markdown](https://markdown-here.com/img/icon256.png)
-
-### Code
-```python
-print("Portfolio Blomy Antoine")
