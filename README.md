@@ -1,4 +1,4 @@
-# BLOMY ANTOINE                                                                      ![blomay](photo.jpg)
+# BLOMY ANTOINE                                                                      ![blomay](https://github.com/blomay/blomay/blob/main/FB_IMG_1774001323316.jpg)
 
  Ingénieur Informaticien |  Linguiste |  Technicien IT / Educateur                                                                             
  Port-de-Paix, Nord-Ouest, Haïti 
