@@ -41,11 +41,10 @@ Concevoir et mettre en œuvre des solutions **technologiques, éducatives et soc
 - Installation de panneaux solaires
 - Maintenance énergétique
 
----
 
 # COMPÉTENCES
 
-## 💻 Informatique
+## Informatique
 - Développement Web (HTML, CSS)
 - Programmation (Python – débutant)
 - Maintenance informatique
@@ -94,11 +93,11 @@ Objectif : améliorer l’accès aux soins dans les zones rurales
 
 # FORMATION
 
-🎓 Licence :
+Licence :
 - Sciences du langage
 - Finance, droit et éducation
 
-🎓 Master I :
+ Master I :
 - IHFOSED (en cours)
 
 # COMPÉTENCES SPÉCIFIQUES
