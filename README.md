@@ -61,12 +61,15 @@ Concevoir et mettre en œuvre des solutions **technologiques, éducatives et soc
 ## Informatique
 
 - Développement Web
-- Programmation (Python)
+- Programmation (Python, Java)
 - Maintenance informatique
 - Création de sites web
 - Gestion de bases de données
 - Administration reseau
 - Administrations des systemes informatiques
+- DevOps
+- Analyse junior en cybersecurite
+  
 
 ## Langues
 - Français (avancé)
