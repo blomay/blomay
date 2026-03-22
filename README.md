@@ -2,12 +2,14 @@
 
 🎓 Ingénieur Informaticien | 🌍 Linguiste | 🔧 Technicien IT / Educateur   
  Port-de-Paix, Nord-Ouest, Haïti 
- contact: 40036216 / 37354129
+ Contact: 40036216 / 37354129
+ antoinealfred22@gmail.com  /  blomyantoine1@gmail.com
+ 
 
 
 #  PROFIL PROFESSIONNEL
 
-Ingénieur et professionnel pluridisciplinaire, je combine des compétences en **informatique, sciences du langage, énergies renouvelables et gestion de projets technologiques**.  
+Ingénieur et professionnel pluridisciplinaire, je combine des compétences en **informatique, sciences du langage, énergies renouvelables et gestion de projets educative**.  
 Je suis actuellement professeur de langues, tout en développant des projets  technologiques innovants pour le développement du pay, le Nord-Ouest en particulier.
 
 #  OBJECTIF
