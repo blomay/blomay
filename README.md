@@ -2,7 +2,7 @@
 
 🎓 Ingénieur Informaticien | 🌍 Linguiste | 🔧 Technicien IT / Educateur   
  Port-de-Paix, Nord-Ouest, Haïti 
- 40036216 / 37354129
+ contact: 40036216 / 37354129
 
 
 #  PROFIL PROFESSIONNEL
