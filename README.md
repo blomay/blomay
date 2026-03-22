@@ -59,11 +59,14 @@ Concevoir et mettre en œuvre des solutions **technologiques, éducatives et soc
 # COMPÉTENCES
 
 ## Informatique
-- Développement Web (HTML, CSS)
-- Programmation (Python – débutant)
+
+- Développement Web
+- Programmation (Python)
 - Maintenance informatique
 - Création de sites web
 - Gestion de bases de données
+- Administration reseau
+- Administrations des systemes informatiques
 
 ## Langues
 - Français (avancé)
